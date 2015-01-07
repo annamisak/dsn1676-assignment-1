@@ -38,20 +38,19 @@ img {
 	text-align: center;
 }
 
+h1 {
+    padding: 0 5%;
+}
+
 .title {
 	display: inline-block;
 	background-color: #e7e5d9;
 	text-shadow: 3px 3px 0 #c2c2c2;
 }
 
-.logo1 {
-    float: right;
-    margin: 0 5px 0 0;
-    width: 2rem;
-}
-
-.logo2 {
-    float: left;
-    margin: 0 5px 0 0;
-    width: 2rem;
+.logo {
+    background-image: url("../images/star.svg"), url("../images/star.svg");
+	background-position: right center, left center;
+	background-repeat: no-repeat;
+	background-size: 32px 32px, 32px 32px;
 }
