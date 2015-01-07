@@ -40,7 +40,7 @@ fieldset, pre, table {
 
 .zetta {
   font-size: 2.0273rem;
-  line-height: 1.4798;
+  line-height: 1.1798;
 }
 
 h1, .exa {
@@ -129,6 +129,10 @@ sub {
 
 .push-none, .push-0 {
   margin-bottom: 0;
+}
+
+.push-left {
+    padding-left: 0;
 }
 
 .push-double, .push-2 {
