@@ -70,3 +70,15 @@ h1 {
 .brown-wrapper {
     background-color: #87714f; 
 }
+
+.c-cream {
+    color: #e7e5d9;
+}
+
+.c-white {
+    color: #fff;
+}
+
+.br {
+    display: block;
+}
