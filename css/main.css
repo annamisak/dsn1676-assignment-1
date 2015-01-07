@@ -15,8 +15,8 @@ html {
     -webkit-text-size-adjust: 100%;
     text-size-adjust: 100%;
 
-    background-color: ;
-    color: ;
+    background-color: #e7e5d9;
+    color: #000;
 }
 
 *, *:before, *:after {
@@ -31,4 +31,27 @@ body {
 img {
     display: block;
     width: 100%;
+}
+
+.masthead {
+	background: transparent url("../images/masthead-bg.png") repeat left center;
+	text-align: center;
+}
+
+.title {
+	display: inline-block;
+	background-color: #e7e5d9;
+	text-shadow: 3px 3px 0 #c2c2c2;
+}
+
+.logo1 {
+    float: right;
+    margin: 0 5px 0 0;
+    width: 2rem;
+}
+
+.logo2 {
+    float: left;
+    margin: 0 5px 0 0;
+    width: 2rem;
 }
