@@ -33,21 +33,21 @@ body {
 }
 
 .masthead {
-	background: transparent url("../images/masthead-bg.png") repeat left center;
-	text-align: center;
+    background: transparent url("../images/masthead-bg.png") repeat left center;
+    text-align: center;
 }
 
 .title {
-	display: inline-block;
-	background-color: #e7e5d9;
-	text-shadow: 3px 3px 0 #c2c2c2;
+    display: inline-block;
+    background-color: #e7e5d9;
+    text-shadow: 3px 3px 0 #c2c2c2;
 }
 
 .logo {
     background-image: url("../images/star.svg"), url("../images/star.svg");
-	background-position: right center, left center;
-	background-repeat: no-repeat;
-	background-size: 35px 35px, 35px 35px;
+    background-position: right center, left center;
+    background-repeat: no-repeat;
+    background-size: 35px 35px, 35px 35px;
     padding: 0 3rem;
 }
 
@@ -60,7 +60,7 @@ body {
 
 .panel {
     border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	border-width: 30px 30px 30px 30px;
+    border-width: 30px 30px 30px 30px;
 }
 
 .brown-wrapper {
