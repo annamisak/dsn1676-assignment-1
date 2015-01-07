@@ -59,8 +59,8 @@ body {
 }
 
 .panel {
-    border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-    border-width: 30px 30px 30px 30px;
+    border-image: url("../images/panel-border.png") 21 21 21 21 stretch stretch;
+    border-width: 21px 21px 21px 21px;
 }
 
 .brown-wrapper {
