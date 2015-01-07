@@ -28,7 +28,7 @@ body {
     padding: 0;
 }
 
-img {
+.img-flex {
     display: block;
     width: 100%;
 }
@@ -53,4 +53,11 @@ h1 {
 	background-position: right center, left center;
 	background-repeat: no-repeat;
 	background-size: 32px 32px, 32px 32px;
+}
+
+.icon-m {
+    display: block;
+    height: 3rem;
+    margin-left: auto;
+    margin-right: auto;
 }
