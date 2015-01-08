@@ -58,7 +58,7 @@ body {
     margin-right: auto;
 }
 
-.panel {
+.img-border {
     border-image: url("../images/panel-border.png") 21 21 21 21 stretch stretch;
     border-width: 21px 21px 21px 21px;
 }
