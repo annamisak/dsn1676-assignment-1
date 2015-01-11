@@ -45,7 +45,7 @@ body {
 
 .logo {
     background-image: url("../images/star.svg"), url("../images/star.svg");
-    background-position: right center, left center;
+    background-position: calc(100% - 10px) center, 10px center;
     background-repeat: no-repeat;
     background-size: 35px 35px, 35px 35px;
     padding: 0 3rem;
@@ -64,7 +64,8 @@ body {
 }
 
 .brown-wrapper {
-    background-color: #87714f; 
+    background-color: #87714f;
+    height: 100%;
 }
 
 .c-cream {
@@ -73,6 +74,10 @@ body {
 
 .c-white {
     color: #fff;
+}
+
+.height {
+    height: 100%;
 }
 
 .br {
